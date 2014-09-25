@@ -9,7 +9,7 @@ type: resources
 
 + [CodeAcademy on APIs and Ruby](http://www.codecademy.com/courses/ruby-beginner-en-pEdhY/0/1)
 + [The Odin Project on External APIs](http://www.theodinproject.com/ruby-on-rails/working-with-external-apis)
-
++ [ReadWrite on APIs](http://readwrite.com/2013/09/19/api-defined)
 
 ### Cool APIs to play with
 
