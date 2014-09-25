@@ -13,15 +13,15 @@ type: resources
 
 ### Cool APIs to play with
 
-+ Twitter
-+ Facebook
-+ Freebase
-+ Mailgun
-+ Twilio
-+ Highcharts
-+ Delivery.com
-+ Foursquare
-+ Yelp
-+ Google Maps
-+ Google Translate
++ [Twitter](https://dev.twitter.com/)
++ [Facebook](https://developers.facebook.com/)
++ [Freebase](https://developers.google.com/freebase/)
++ [Mailgun](http://documentation.mailgun.com/)
++ [Twilio](https://www.twilio.com/docs/api/rest)
++ [Highcharts](http://api.highcharts.com/highcharts)
++ [Delivery.com](https://developers.delivery.com/)
++ [Foursquare](https://developer.foursquare.com/)
++ [Yelp](http://www.yelp.com/developers)
++ [Google Maps](https://developers.google.com/maps/)
++ [Google Translate](https://cloud.google.com/translate/)
 
