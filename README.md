@@ -20,7 +20,7 @@ type: resources
 + Twilio
 + Highcharts
 + Delivery.com
-+ Forusquare
++ Foursquare
 + Yelp
 + Google Maps
 + Google Translate
