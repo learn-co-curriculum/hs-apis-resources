@@ -1,7 +1,4 @@
----
-tags: resources, kids, apis, api
-type: resources
----
+
 
 ##API Resources
 
